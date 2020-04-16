@@ -448,3 +448,29 @@ WOS在**0-IIa型**出现几率较高。
 	无法分类  
 #### 十二指肠内镜诊断效能大于活检。所以不以病理诊断为最终判断。  
 
+
+
+
+
+# 重温经典，pit pattern分型 
+###### 陈敏。
+### I型 圆形———— 非肿瘤，正常
+### II型 星芒状————非肿瘤，增生型息肉
+### IIIL型 管状pit，比正常的大——————良性肿瘤
+### IIIs型 小型类圆形pit，但比正常pit小————————de novo癌
+### IV型 树枝状pit（IVB）或脑回状（IVv）） ————————均为腺瘤
+### V型  不规则pit（Vi）————m，sm癌；或无结构（VN）————sm，massive癌。
+
+### sano分型（capillary毛细血管）：I、II、IIIA、IIIB  
+### NICE分型：type1、type2、type3
+### JNET分型（Japan NBI Expert Team）：
+	type1
+	type2A
+	type2B
+	type3  
+
+
+
+# 结肠镜检查规范化手法
+###### 闪明海。
+### 肠道准备，复方聚乙二醇电解质散
