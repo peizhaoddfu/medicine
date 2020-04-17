@@ -546,4 +546,4 @@ Depressed（凹陷型）： IIc、IIc+IIa、IIa+IIc、Is+IIc；***
 	西甲硅油3-6mL，或30%溶液45mL，与清洁剂一起使用。
 
 
-	 [祛泡评分](气泡评分.png)
+! [祛泡评分](气泡评分.png)
